@@ -1,0 +1,11 @@
+url,status,title,description,response_time_ms,links_found
+https://www.python.org,200,Welcome to Python.org,The official home of the Python Programming Language,587.39,65
+https://www.python.org/events/,200,Our Events | Python.org,The official home of the Python Programming Language,897.25,82
+https://www.python.org/community/awards,200,Python Community Awards | Python Software Foundation,The official home of the Python Programming Language,1230.54,84
+https://www.python.org/psf/conduct/,200,Python Software Foundation Code of Conduct - Python Software Foundation Policies,No Description,1165.62,23
+https://www.python.org/success-stories/,200,Our Success Stories | Python.org,The official home of the Python Programming Language,901.63,81
+https://www.python.org/events/python-user-group/2254/,200,Python Help | Python.org,The official home of the Python Programming Language,894.17,122
+https://www.python.org/success-stories/category/scientific/,200,Scientific | Our Success Stories | Python.org,The official home of the Python Programming Language,896.94,59
+https://www.python.org/downloads/,200,Download Python | Python.org,The official home of the Python Programming Language,542.34,344
+https://www.python.org/events/python-user-group/2212/,200,Python Leiden User Group | Python.org,The official home of the Python Programming Language,732.69,66
+https://www.python.org/download/alternatives,200,Alternative Python implementations | Python.org,"This site hosts the ""traditional"" implementation of Python (nicknamed CPython). A number of alternative implementations are available as well and several vendors have repackaged CPython to include more libraries or specialized it for a particular application.",1244.91,52
